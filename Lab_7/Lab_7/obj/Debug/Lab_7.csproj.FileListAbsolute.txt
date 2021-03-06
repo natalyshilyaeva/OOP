@@ -1,0 +1,14 @@
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\bin\Debug\Lab_7.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\bin\Debug\Lab_7.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\bin\Debug\Lab_7.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\bin\Debug\Lab_7.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\obj\Debug\Lab_7.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\obj\Debug\Lab_7.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_7\Lab_7\obj\Debug\Lab_7.pdb

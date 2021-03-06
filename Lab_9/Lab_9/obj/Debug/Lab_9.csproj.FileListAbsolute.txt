@@ -1,0 +1,7 @@
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\bin\Debug\Lab_9.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\bin\Debug\Lab_9.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\bin\Debug\Lab_9.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\obj\Debug\Lab_9.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\obj\Debug\Lab_9.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_9\Lab_9\obj\Debug\Lab_9.pdb

@@ -1,0 +1,13 @@
+C:\Users\stud\Desktop\204\Lab_00\Lab_00\bin\Debug\Lab_00.exe.config
+C:\Users\stud\Desktop\204\Lab_00\Lab_00\obj\Debug\Lab_00.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\204\Lab_00\Lab_00\bin\Debug\Lab_00.exe
+C:\Users\stud\Desktop\204\Lab_00\Lab_00\bin\Debug\Lab_00.pdb
+C:\Users\stud\Desktop\204\Lab_00\Lab_00\obj\Debug\Lab_00.exe
+C:\Users\stud\Desktop\204\Lab_00\Lab_00\obj\Debug\Lab_00.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\bin\Debug\Lab_00.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\bin\Debug\Lab_00.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\bin\Debug\Lab_00.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\obj\Debug\Lab_00.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\obj\Debug\Lab_00.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\obj\Debug\Lab_00.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Наташа\204\Lab_00\Lab_00\obj\Debug\Lab_00.pdb

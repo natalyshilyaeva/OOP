@@ -1,0 +1,7 @@
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.exe.config
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\bin\Debug\Lab_4_2.pdb
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.csprojAssemblyReference.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.csproj.CoreCompileInputs.cache
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.exe
+D:\Моя_папка\Наташа\2_курс\Программирование\ООП\Lab_4_2\Lab_4_2\obj\Debug\Lab_4_2.pdb
